@@ -61,8 +61,8 @@ cargo install --locked stellar-cli --features opt
 ## Setup and build
 
 ```bash
-git clone https://github.com/yourname/helo-contract
-cd helo-contract
+git clone https://github.com/yourname/Helo-Stellar-Contract
+cd Helo-Stellar-Contract
 
 # Compile the contract to WASM
 stellar contract build
